@@ -2,8 +2,8 @@
 
 body {
   padding: 20px;
-  background-color: #282c34;
-  color: #dfdfdf;
+  background-color:  #0a0f14;
+  color: #d3ebe9;
   font-family: "Fira Code";
   font-size: 14px;
   line-height: 22px;
@@ -12,27 +12,28 @@ body {
 }
 
 pre {
-  color: #ecbe7b;
-  font-size: 16px;
-  line-height: 14px;
+  color: #26a98b;
+  font-size: 18px;
+  line-height: 16px;
+  font-weight: 1000;
 }
 
 blockquote {
-  color: #ecbe7b;
+  color: #d3ebe9;
 }
 
 a {
-  color: #c678dd;
+  color: #edb54b;
   text-decoration: none;
 }
 
 a:hover {
-  color: #51afef;
+  color: #d26939;
 }
 
 h1 {
-  font-size: 20px;
-  color: #ff6c6b;
+  font-size: 22px;
+  color: #c33027;
   margin-bottom: 0px;
 }
 
@@ -41,13 +42,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-size: 16px;
-  color: #51afef;
+  font-size: 18px;
+  color: #26a98b;
   margin-bottom: 0px;
 }
 
 li {
-  color: #98be65;
+  color: #33859d;
 }
 
 p {
