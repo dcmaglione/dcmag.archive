@@ -1,40 +1,40 @@
-@import url("https://fonts.googleapis.com/css2?family=Fira+Code");
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code');
 
 body {
-  padding: 20px;
-  background-color: #0a0f14;
-  color: #d3ebe9;
-  font-family: "Fira Code";
-  font-size: 14px;
-  line-height: 22px;
-  margin: 0 auto;
-  max-width: 960px;
+    padding: 20px;
+    background-color: #0a0f14;
+    color: #d3ebe9;
+    font-family: 'Fira Code';
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0 auto;
+    max-width: 960px;
 }
 
 pre {
-  color: #26a98b;
-  font-size: 18px;
-  line-height: 16px;
-  font-weight: 1000;
+    color: #26a98b;
+    font-size: 18px;
+    line-height: 16px;
+    font-weight: 1000;
 }
 
 blockquote {
-  color: #d3ebe9;
+    color: #d3ebe9;
 }
 
 a {
-  color: #edb54b;
-  text-decoration: none;
+    color: #edb54b;
+    text-decoration: none;
 }
 
 a:hover {
-  color: #d26939;
+    color: #d26939;
 }
 
 h1 {
-  font-size: 22px;
-  color: #c33027;
-  margin-bottom: 0px;
+    font-size: 22px;
+    color: #c33027;
+    margin-bottom: 0px;
 }
 
 h2,
@@ -42,16 +42,16 @@ h3,
 h4,
 h5,
 h6 {
-  font-size: 18px;
-  color: #26a98b;
-  margin-bottom: 0px;
+    font-size: 18px;
+    color: #26a98b;
+    margin-bottom: 0px;
 }
 
 li {
-  color: #33859d;
+    color: #33859d;
 }
 
 p {
-  padding: 0px;
-  margin: 0px;
+    padding: 0px;
+    margin: 0px;
 }
