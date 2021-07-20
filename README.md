@@ -1,2 +1,2 @@
 # dcmag.dev
-Personal portfolio website.
+Personal archive website and Gemini capsule.
